@@ -1,0 +1,21 @@
+caso,algoritmo,pasos,costo,expandidos,generados,max_frontera,max_nodos_memoria,memoria_kb,tiempo_ms,costo_optimo
+Caso 1 - Facil,DFS (profundidad),63340,285166,111702,298953,42946,153353,39603.0,541.99,46
+Caso 1 - Facil,BFS (amplitud),10,46,295,791,173,468,68.0,0.93,46
+Caso 1 - Facil,Costo uniforme (UCS),10,46,779,2130,495,1274,143.4,2.88,46
+Caso 1 - Facil,A* - Manhattan ponderada (h2),10,46,10,28,9,19,3.1,0.09,46
+Caso 1 - Facil,A* - Mal ubicadas ponderadas (h1),10,46,18,51,16,34,4.7,0.09,46
+Caso 2 - Medio (BFS no es optimo en costo),DFS (profundidad),39860,179217,146938,388985,42826,176033,47466.1,619.17,91
+Caso 2 - Medio (BFS no es optimo en costo),BFS (amplitud),18,107,14574,39746,7714,22288,5852.3,55.32,91
+Caso 2 - Medio (BFS no es optimo en costo),Costo uniforme (UCS),20,91,54861,148299,19777,74029,16845.5,409.59,91
+Caso 2 - Medio (BFS no es optimo en costo),A* - Manhattan ponderada (h2),20,91,804,2160,495,1293,145.4,4.69,91
+Caso 2 - Medio (BFS no es optimo en costo),A* - Mal ubicadas ponderadas (h1),20,91,4137,11247,2418,6533,1353.5,22.2,91
+Caso 3 - Medio,DFS (profundidad),58492,263254,121432,323433,42912,160952,39742.9,558.23,94
+Caso 3 - Medio,BFS (amplitud),20,94,44644,122675,18582,63225,12841.3,256.67,94
+Caso 3 - Medio,Costo uniforme (UCS),20,94,81348,219137,22970,103255,24322.2,592.89,94
+Caso 3 - Medio,A* - Manhattan ponderada (h2),20,94,209,548,126,333,36.0,1.19,94
+Caso 3 - Medio,A* - Mal ubicadas ponderadas (h1),20,94,5953,16145,3434,9340,1962.6,33.69,94
+Caso 4 - Dificil,DFS (profundidad),61718,278692,115186,307716,42913,156220,39582.9,500.58,122
+Caso 4 - Dificil,BFS (amplitud),26,122,149125,399556,24054,164800,35242.2,681.38,122
+Caso 4 - Dificil,Costo uniforme (UCS),26,122,176629,471483,23619,180120,40333.9,1453.09,122
+Caso 4 - Dificil,A* - Manhattan ponderada (h2),26,122,1633,4251,872,2462,332.8,9.97,122
+Caso 4 - Dificil,A* - Mal ubicadas ponderadas (h1),26,122,54132,146220,20970,73832,17316.4,463.6,122

@@ -1,0 +1,19 @@
+posicion,profundidad,columna,nodos_sin_poda,nodos_con_poda,reduccion_pct,podas,ms_sin_poda,ms_con_poda,misma_jugada
+Inicio (tablero vacio),1,4,8,8,0.0,0,0.5,0.5,si
+Inicio (tablero vacio),2,4,57,24,57.9,6,2.2,0.8,si
+Inicio (tablero vacio),3,4,400,76,81.0,12,15.6,2.6,si
+Inicio (tablero vacio),4,4,2801,235,91.6,72,109.1,7.3,si
+Inicio (tablero vacio),5,4,19608,990,95.0,165,548.0,20.8,si
+Inicio (tablero vacio),6,4,137257,1466,98.9,481,3922.6,37.0,si
+Apertura (4 jugadas),1,2,8,8,0.0,0,0.2,0.2,si
+Apertura (4 jugadas),2,2,57,37,35.1,4,1.4,0.8,si
+Apertura (4 jugadas),3,4,400,172,57.0,18,12.4,5.3,si
+Apertura (4 jugadas),4,2,2717,494,81.8,111,81.5,10.8,si
+Apertura (4 jugadas),5,4,18935,2885,84.8,373,594.6,81.1,si
+Apertura (4 jugadas),6,4,127053,7272,94.3,2140,3807.4,142.0,si
+Medio juego (10 jugadas),1,5,8,8,0.0,0,0.2,0.2,si
+Medio juego (10 jugadas),2,3,57,32,43.9,5,1.6,0.8,si
+Medio juego (10 jugadas),3,5,399,152,61.9,17,10.5,3.5,si
+Medio juego (10 jugadas),4,3,2768,453,83.6,84,87.7,11.9,si
+Medio juego (10 jugadas),5,5,18722,2056,89.0,347,680.5,59.1,si
+Medio juego (10 jugadas),6,3,125846,5710,95.5,1245,3470.7,152.3,si

@@ -1,0 +1,3 @@
+# El programa principal solo usa la libreria estandar de Python (incluye tkinter).
+# matplotlib es OPCIONAL: solo lo usa comparar.py para generar las graficas.
+matplotlib>=3.5
