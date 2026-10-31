@@ -11,12 +11,12 @@ Elegimos un 8-puzzle con fichas de distinto peso porque en el 8-puzzle normal to
 
 ## Integrantes
 
-- Nombre Apellido 1 – código
-- Nombre Apellido 2 – código
-- Nombre Apellido 3 – código
+Cristhian Ramírez 2310123 
+Yoel Steven Montoya 2416571 
+Gabriel de Jesús Arango 1823077 
 
 **Curso:** Inteligencia Artificial – 2026
-**Docente:** _nombre del docente_
+**Docente:** Andres Mauricio Valencia
 
 ## Requisitos
 
